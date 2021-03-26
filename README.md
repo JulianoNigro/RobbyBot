@@ -10,7 +10,7 @@
 🤔 How can i add him?
 ---------------
 
-You can add Robby click>ing [here](https://discord.com/oauth2/authorize?client_id=808348745271869482&scope=bot&permissions=2080383166) !
+You can add Robby clicking [here](https://discord.com/oauth2/authorize?client_id=808348745271869482&scope=bot&permissions=2080383166) !
 Robby's Default prefix is `?`, but you can change using the command `?prefix <new>` !
 Did you know that you can too change Robby's default language? You can do that using 
 `?lang <pt/eng/esp>` (Spanish language will be added on the future!)
