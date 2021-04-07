@@ -25,4 +25,4 @@ Robby is made using [JavaScript](https://nodejs.org/en/) using the [Discord.js](
 
 Do you have any Doubt or question about how to use Robby? So Check my **Support Server** by Clicking [here](https://discord.gg/vydWzmAW3F) !
 
-You can access my Website by clicking [here](https://robbybot4.webnode.com) ! There you can find Robby Commands there!
+You can access my Website by clicking [here](https://robbybot.webnode.com)! There you can find Robby Commands there!
