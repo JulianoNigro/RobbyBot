@@ -18,7 +18,7 @@ You can see his commands using `-help`🤔 How can i add him?
 
 🤖 How does Robby Works?
 ---------------
-Robby is made using [JavaScript](https://nodejs.org/en/) using the [Discord.js](https://discord.js.org/#/) Library.
+Robby was made using [JavaScript](https://nodejs.org/en/) using the [Discord.js](https://discord.js.org/#/) Library.
 
 ☎️ Support
 ---------------
