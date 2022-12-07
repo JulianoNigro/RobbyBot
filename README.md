@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/75336791/112693234-0c0abe00-8e5f-11eb-9247-392da0c053bf.png)
+![](https://cdn.discordapp.com/avatars/957308921457041480/9157a2959155ffbb3c4a518c3ca5ee7c.png?size=4096)
 
 # 🤖 RobbyBot 🌟
 
