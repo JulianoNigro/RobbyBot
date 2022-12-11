@@ -1,8 +1,8 @@
 ![](https://cdn.discordapp.com/attachments/1033127620700803144/1050158824100724807/E1C2B9EC-53E2-4137-9A01-714960A68749.png)
 
-# 🤖 RobbyBot 🌟
+# 🤖 Robby Bot 🌟
 
-> Hi! my name is RobbyBot (or just Robby who is the nickname everyone calls me!), I'm just a simple Brazilian bot 🇧🇷 to Discord with several super cool functions!
+> Hey! my name is RobbyBot (or just Robby who is the nickname everyone calls me!), I'm 15 years old, and I'm just a simple Brazilian bot 🇧🇷 to Discord with several super cool functions!
 > I'm just a simple Discord Bot with a lot of amazing functions!
 > With feautures to entertain and engage your server members with a lot of powerful commands! 
 > **Moderation, Economy, Utility, Image Manipulation, Fun and much more!**
