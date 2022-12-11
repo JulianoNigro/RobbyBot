@@ -2,7 +2,7 @@
 
 # 🤖 Robby Bot 🌟
 
-> Hey! my name is RobbyBot (or just Robby who is the nickname everyone calls me!), I'm 15 years old, and I'm just a simple Brazilian bot 🇧🇷 to Discord with several super cool functions!
+> Hey! my name is RobbyBot (or just Robby who is the nickname everyone calls me!), I'm 15 years old, and I'm just a simple Brazilian bot 🇧🇷 to Discord with several incredible cool functions!
 > I'm just a simple Discord Bot with a lot of amazing functions!
 > With feautures to entertain and engage your server members with a lot of powerful commands! 
 > **Moderation, Economy, Utility, Image Manipulation, Fun and much more!**
@@ -23,6 +23,6 @@ Robby was made using [JavaScript](https://nodejs.org/en/) using the [Discord.js]
 ☎️ Support
 ---------------
 
-Do you have any Doubt or question about how to use Robby? So Check my **Support Server** by Clicking [here](https://discord.gg/ZGw63Eq95z)!
+Do you have any doubt or question about how to use Robby? So Check my **Support Server** by Clicking [here](https://discord.gg/ZGw63Eq95z)!
 
 You can access my Website by clicking [here](https://robbybot.robbywebsite.repl.co/commands)! There you can find Robby Commands there!
